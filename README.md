@@ -1,3 +1,3 @@
-# porfolio
+# Porfolio
 ## freeCodeCamp Project
-Link:
+Link: https://talitastravassos.github.io/
